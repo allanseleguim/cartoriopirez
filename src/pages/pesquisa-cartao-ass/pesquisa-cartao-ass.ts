@@ -9,7 +9,7 @@ import { HomePage } from '../home/home';
  * Ionic pages and navigation.
  */
 
-@IonicPage()
+
 @Component({
   selector: 'page-pesquisa-cartao-ass',
   templateUrl: 'pesquisa-cartao-ass.html',
